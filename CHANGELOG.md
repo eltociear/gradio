@@ -1,5 +1,15 @@
 # gradio
 
+## 3.42.0
+
+### Features
+
+- [#5334](https://github.com/gradio-app/gradio/pull/5334) [`c5bf9138`](https://github.com/gradio-app/gradio/commit/c5bf91385a632dc9f612499ee01166ac6ae509a9) - Add chat bubble width param.  Thanks [@dawoodkhan82](https://github.com/dawoodkhan82)!
+
+### Fixes
+
+- [#5304](https://github.com/gradio-app/gradio/pull/5304) [`05892302`](https://github.com/gradio-app/gradio/commit/05892302fb8fe2557d57834970a2b65aea97355b) - Adds kwarg to disable html sanitization in `gr.Chatbot()`.  Thanks [@dawoodkhan82](https://github.com/dawoodkhan82)!
+
 ## 3.41.2
 
 ### Features

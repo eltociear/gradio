@@ -1,5 +1,14 @@
 # @gradio/app
 
+## 1.3.3
+
+### Patch Changes
+
+- Updated dependencies [[`05892302`](https://github.com/gradio-app/gradio/commit/05892302fb8fe2557d57834970a2b65aea97355b), [`c5bf9138`](https://github.com/gradio-app/gradio/commit/c5bf91385a632dc9f612499ee01166ac6ae509a9)]:
+  - @gradio/chatbot@0.3.0
+  - @gradio/markdown@0.1.2
+  - @gradio/dataframe@0.1.2
+
 ## 1.3.2
 
 ### Patch Changes

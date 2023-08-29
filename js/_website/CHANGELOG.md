@@ -1,5 +1,11 @@
 # website
 
+## 0.2.3
+
+### Fixes
+
+- [#5304](https://github.com/gradio-app/gradio/pull/5304) [`05892302`](https://github.com/gradio-app/gradio/commit/05892302fb8fe2557d57834970a2b65aea97355b) - Adds kwarg to disable html sanitization in `gr.Chatbot()`.  Thanks [@dawoodkhan82](https://github.com/dawoodkhan82)!
+
 ## 0.2.2
 
 ### Features

@@ -1,5 +1,12 @@
 # @gradio/dataframe
 
+## 0.1.2
+
+### Patch Changes
+
+- Updated dependencies [[`05892302`](https://github.com/gradio-app/gradio/commit/05892302fb8fe2557d57834970a2b65aea97355b)]:
+  - @gradio/markdown@0.1.2
+
 ## 0.1.1
 
 ### Patch Changes
